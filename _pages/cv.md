@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering, The University of Texas at Dallas, 2025 
+* M.S. in Electrical & Computer Engineering, North Dakota State University, 2022
+* B.Tech. in Electrical Engineering, Maulana Abul Kalam Azad University of Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: ECO ORISE Fellow 
+  * Oak Ridge National Laboratory
+  * Duties includes: Develop AI for Operations WOrkflow of Event Forecasting
+  * Supervisor: Dr. Tirthankar Ghosal
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 - Fall 2025: Graduate Research Assistant
+  * The University of Texas at Dallas
+  * Duties included: Investigating Functional safety of DNN and AI Hardware and building Mitigation Strategies
+  * Supervisor: Dr. Kanad Basu
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 - Fall 2022: Graduate Research Assistant
+  * North Dakota State University
+  * Duties included: Designing Novel Circuits with Emerging Memory Technologies including Ferro-Electric Field Effect Transisters and Quantum Anomalous Hall Effect Memories.
+  * Supervisor: Dr. Sumitha George
+
+* Fall 2019 - Summer 2021: Systems Engineer
+  * Tata Consultancy Services
+  * Duties included: Developed tailored IFS application products, optimizing functionalities using C#, Azure, PL/SQL, and Oracle Database expertise.
+  
   
 Skills
 ======
